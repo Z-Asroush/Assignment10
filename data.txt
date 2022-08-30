@@ -1,0 +1,8 @@
+1,film,mardebazande,M.Mahdavian,5.7,114,http//...,J.Ezzati-R.Azadivar-A.Dargahi,episode
+2,film,jahan ba man beraghs,S.Sehat,6.6,93,http//...,A.Mosaffa-J.Ezzati-H.Tavasoli,episode
+3,film,atabai,N.Karimi,6.5,104,http//...,H.Hejazifar-S.Dolatshahi-J.Ezzati,episode
+4,film,sianor,B.Shoaibi,5.7,104,http//...,M.Hashemi-H.Tavasoli-B.Hamidian-H.Komeyli,episode
+5,series,ham gonah,M.kiaee,IMDB,duration,,http//...,P.Parastooie-H.Tehrani-M.Kiaie,50
+6,series,yaghi,M.Kart,IMDB,duration,http//...,P.Piroozfar-A.Shadman-T,Tabatabaie,16
+8,documentary,divanegi,S.Alibak,IMDB,76,http//...,M.Keshavarzi,episode
+9,clip,salam farmande,M.Behnahad,IMDB,7,http//...,A.Roohi,episode
